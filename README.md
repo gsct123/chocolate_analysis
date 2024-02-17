@@ -17,3 +17,5 @@ Challenges faced:
 Conclusion & findings: 
 1. A blend of South American cacao beans are used by highly rated companies 
 2. Cacao % around 65 - 70 achived a better rating due to have a balance between sweet and bitter (appealing to a bigger demographic)
+3. USA, UK, Italy, France, Belgium, Ecuador has a solid record of producing chocolate that rated overall 3 or above
+* Execute the code for other insights
