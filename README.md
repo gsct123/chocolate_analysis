@@ -9,7 +9,6 @@ Sources: https://www.kaggle.com/datasets/rtatman/chocolate-bar-ratings
 Tools used: 
 1. Jupyter Notebook
 2. Python
-3. pandas, numpy, matplotlib, seaborn
 
 Challenges faced:  
 1. Replacing missing values 
