@@ -1,6 +1,6 @@
 # Data Analysis - Flavors of Cacao 
-Cococococo.
-Cococococo
+Examination of Cocoa Beans from Various Countries
+
 
 # This project aims to find points such as ... 
 1. What factors affects a chocolate's ratings ?
