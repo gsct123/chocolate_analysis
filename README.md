@@ -1,5 +1,6 @@
 # Data Analysis - Flavors of Cacao 
-## Cococococo
+Cococococo
+
 This project aims to find points such as ... 
 1. What factors affects a chocolate's ratings ?
 2. Where quality chocolate are produced and where are they grown ? 
